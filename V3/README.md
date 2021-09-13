@@ -128,7 +128,7 @@ Let's begin with one of the promotion sketch of our friend paintschainer *(paint
 
 You can find this sketch here:
 
-<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/dis5.jpg" height = "300" />
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/dis5.jpg" height = "300" loading="lazy"/>
 
 Here is a overview of this feature:
 
@@ -164,7 +164,7 @@ Some other similar examples:
 
 Let us begin with a sketch from google, and this sketch has relative large skin area:
 
-<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/sketch.original.jpg" height = "300" />
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/sketch.original.jpg" height = "300" loading="lazy"/>
 
 And here is the result from **PaintsChainer** :
 
@@ -184,7 +184,7 @@ And some other similar results:
 
 ## Our baseline sample of skin rendering
 
-<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/sbl2.jpg" height = "360" />
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/sbl2.jpg" height = "360" loading="lazy"/>
 
 ![sbl1](https://raw.githubusercontent.com/lrisviel/markdown/master/github/sbl1.jpg)
 
@@ -220,7 +220,7 @@ And then, you need to try some of these to get your favorite one. Do not be lazy
 
 Here is an Ayase for you to practice:
 
-<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/huili.jpg" height = "360" />
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/huili.jpg" height = "360" loading="lazy"/>
 
 ![skinright](https://raw.githubusercontent.com/lrisviel/markdown/master/github/skinright.jpg)
 
@@ -258,7 +258,7 @@ Here is a comparison:
 
 Here is a Minami for you:
 
-<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/xn.jpg" height = "300" />
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/xn.jpg" height = "300" loading="lazy"/>
 
 First of all, you just upload this sketch to the APP and click one of the right arrows to get the automatic result, like this:
 
@@ -292,11 +292,11 @@ OK. Still very easy, just put white color on the skirt. This is important becaus
 
 OK. The shose and leg color are checked. Then we add color to the skin:
 
-<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/ds6.jpg" height = "500" />
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/ds6.jpg" height = "500" loading="lazy"/>
 
 And we make some final decoration and get this:
 
-<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/ds7.jpg" height = "500" />
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/ds7.jpg" height = "500" loading="lazy"/>
 
 As you can see, this canvas seems very complex, but it is very easy to create if you can follow these steps.
 
@@ -328,7 +328,7 @@ Some other examples:
 
 Origins:
 
-<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/ors.jpg?t=55" height = "180" />
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/ors.jpg?t=55" height = "180" loading="lazy"/>
 
 Results:
 
@@ -342,7 +342,7 @@ Sometimes your sketch may not combines of lines, or the sketch itself is a black
 
 Then you may need this mode. For example, this sketch:
 
-<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/baws.jpg" height = "250" />
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/baws.jpg" height = "250" loading="lazy"/>
 
 And the results:
 
@@ -446,7 +446,7 @@ Currently, the baseline of sketch colorization is very high (PaintsChainerV1/V2/
 
 For example, if someone can train a model to colorize this:
 
-<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/bs.jpg" height = "512" />
+<img src="https://raw.githubusercontent.com/lrisviel/markdown/master/github/bs.jpg" height = "512" loading="lazy"/>
 
 Then we will appreciate it very much, because it remains a BIG problem how we can improve sketch itself. BTW, our result is here:
 
